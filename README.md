@@ -1,9 +1,8 @@
 # Kafka
 
-insatllation:
+installation:
 --------------------------
 https://kafka.apache.org/quickstart#quickstart_createtopic
-how to
 
 https://kafka.apache.org/downloads
 download Binary
@@ -29,6 +28,8 @@ bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server local
 
 NEW (!!!) git bash
 bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
+
+got to console-producer and print message
 --------------------------
 
 
